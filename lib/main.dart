@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: AppTheme().getTheme(),
-      title: 'Toktik',
+      title: 'TikMock',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Material App Bar'),
